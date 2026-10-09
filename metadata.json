@@ -1,0 +1,6 @@
+{
+  "name": "Super Pink Worm Arcade",
+  "description": "Retro mobile-first arcade platformer featuring a burrowing pink worm, 6 progressive stages, epic insect boss battles, and synthesized audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
